@@ -1,0 +1,208 @@
+@font-face {
+    font-family: "Stratos"; 
+    src: url("../fonts/Stratos-Black.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "Stratos"; 
+    src: url("../fonts/Stratos-BlackItalic.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 900;
+}
+
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-Bold.woff2') format("woff2");
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-BoldItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-ExtraBold.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-ExtraBoldItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: 800;
+}
+
+
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-ExtraLight.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-ExtraLightItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: 200;
+}
+
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-Italic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: normal;
+}
+
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-Light.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-LightItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-Medium.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-MediumItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: 500;
+}
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-Regular.woff2') format("woff2");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-SemiBold.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-SemiBoldItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+
+@font-face {
+    font-family: "Stratos SemiLight" ;
+    src: url('../fonts/Stratos-SemiLight.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: "Stratos SemiLight" ;
+    src: url('../fonts/Stratos-SemiLightItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: 300;
+}
+
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-Thin.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+@font-face {
+    font-family: "Stratos" ;
+    src: url('../fonts/Stratos-ThinItalic.woff2') format("woff2");
+    font-style: italic;
+    font-weight: 100;
+}
+
+
+
+@font-face {
+    font-family: "Stratos LC Web" ;
+    src: url('../fonts/StratosLCWeb-Bold.woff2') format("woff2");
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+
+
+@font-face {
+    font-family: "Stratos LC Web" ;
+    src: url('../fonts/StratosLCWeb-Light.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 300;
+
+}
+
+
+@font-face {
+    font-family: "Stratos LC Web" ;
+    src: url('../fonts/StratosLCWeb-Medium.woff2') format("woff2");
+    font-style: normal;
+    font-weight: 500;
+
+
+}
+
+
+@font-face {
+    font-family: "Stratos LC Web" ;
+    src: url('../fonts/StratosLCWeb-Regular.woff2') format("woff2");
+    font-style: normal;
+    font-weight: normal;
+
+
+}
+
+
+
+
+
+
+
