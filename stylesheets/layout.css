@@ -33,7 +33,7 @@
 }
    
    .zagolovok1 {
-    margin: 97px 804px 943px 198px;
+    margin: 0px 804px 943px 198px;
    }
 
    .zagolovok2 {
@@ -969,8 +969,11 @@ letter-spacing: -24px;
 .thelastnews {
     position: relative;
     font-size: 38px;
-top: -2px;
-left: 376px;
+    top: -2px;
+    left: 376px;
+    width: 359px;
+    height: 56px;
+
 }
 
 .zagolovokoper {
@@ -1125,12 +1128,15 @@ left: 376px;
     font-size: 26px;
     font-style: normal;
     font-weight: 700;
+    width: 248px;
+    height: 38px;
 }
 
 .namesername {
     position: relative;
     top: 558px;
     left: 328px;
+
 }
 
 .subbotin {
@@ -1145,6 +1151,8 @@ left: 376px;
     font-size: 11px;
     font-style: normal;
     font-weight: 300;
+    width: 47px;
+    height: 16px;
 }
 
 .gruppa {
