@@ -340,8 +340,22 @@
     transform: rotate(27.808deg);
     align-items: center;
     gap: 24px;
-    margin: 47px 413px 0px 662px;
+    margin: 47px 413px 0px 660px;
 }
+
+.rbukva {
+    position: relative;
+    left: 1px;
+}
+
+
+.redach {
+    position: relative;
+    left: 2px;
+    top: -1px;
+
+}
+
 
 .ocobenostitext {
     width: 1280px;
@@ -1144,4 +1158,9 @@ left: 376px;
     position: relative;
     top: 660px;
     left: 505px;
+}
+
+.rbukva {
+    position: relative;
+    left: 1px;
 }
