@@ -9,8 +9,6 @@
     display: block;
     margin: 0 auto;
     position: relative;
-    
-   
 
 }
 
@@ -21,44 +19,60 @@
     height: 1303px ;
     background-image: url("../images/kaskalomik.svg");
     Background-repeat: no-repeat;
+
+}
+
+.nazvanie {
     font-family: 'Stratos';
     font-size: 322px;
-    line-height: 143%; 
     letter-spacing: -32px;
     color: rgb(0, 0, 0);
     -webkit-text-stroke-width: 9px;
     -webkit-text-stroke-color: #000000;
     font-weight: 600;
     font-style: normal;
+    width: 307px ;
+    height: 353px;
 }
    
    .zagolovok1 {
-    margin: 0px 804px 943px 198px;
+    position: relative;
+    top: 64px;
+    left: 198px;
    }
 
    .zagolovok2 {
-   margin:-1354px 515px 743px 445px;
+    position: relative; 
+    top: -212px;;
+    left: 436px;
    }
 
    .zagolovok3 {
-    margin: -960px 450px 392px 703px;
+    position: relative;  
+    top: -292px;
+    left: 694px;
    }
 
    .zagolovok4 {
-    margin: -1050px 238px 740px 880px;
+    position: relative; 
+    top: -813px;
+    left: 879px;
    }
    
 
    .mainlomik {
-    font-family: 'Stratos LC Web';
-    color: aliceblue;
-    font-size: 21px;
+        font-family: 'Stratos LC Web';
+        color: rgb(255, 255, 255);
+        font-size: 21px;
+       
     
     
    }
 
    .lomik1 {
-    margin: -801px 983px 766px 275px;
+    position: relative;
+    top: 7px;
+    left: 276px;
     transform: rotate(-3deg);
     width: 500px;
     height: 26px;
@@ -68,44 +82,56 @@
     transform: rotate(11deg);
     width: 391px;
     height: 24px;
-    margin: -730px 960px 750px 320px;
+    position: relative;
+    top: 43px;
+    left: 318px;
    }
 
    .lomik3 {
     transform: rotate(-3deg);
     width: 105px;
     height: 24px;
-    margin: -746px 960px 750px 470px;
+    position: relative;
+    top: 49px;
+    left: 470px;
    }
 
    .lomik4 {
     width: 524px;
     height: 31px;
     transform: rotate(26deg);
-    margin: -710px 960px 750px 280px;
-    font-size: 28px;
+    position: relative;
+    top: 93px;
+    left: 282px;
+    font-size: 26px;
    }
 
    .bokovushkitekst {
     font-family: 'Stratos SemiLight', sans-serif;
     font-style: italic;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     font-size: 50px;
    }
 
    .bokovushkitekst1 {
     transform: rotate(-90deg);
-    margin: -910px 5000px 750px 60px;
+    position: relative;
+    top: -712px;
+    left: -588px;
+    
+
    }
 
    .bokovushkitekst2 {
-    margin: -1080px 5000px 750px 1220px;
+    position: relative;
+    top: -425px;
+    left: 1198px;
     width: 50px;
    }
 
    .kvadratik {
     display: flex;
-    justify-content: center;
+    text-align: center;
     flex-direction: column;
     font-family: 'Stratos', sans-serif ;
     font-weight: 900;
@@ -113,8 +139,13 @@
     font-size: 64px;
     color: #000000;
     letter-spacing: 18px;
-    margin: -1129px 5000px 750px 735px;
-    gap: 48px;
+    gap: 129px;
+    position: relative;
+    width: 116px;
+    height: 270px;
+    top: -861px;
+    left: 755px;
+
    }
 
 
@@ -131,8 +162,8 @@
 
 .kvadratikk {
     position: relative;
-    top: -1554px;
-    left: 759px;
+    top: -159px;
+    left: 763px;
     width: 82px;
     height: 138px;
     background-color: #000000;
@@ -147,7 +178,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: 106%;
-    margin:-263px 450px 0px 200px
+    margin:-229px 450px 0px 200px
   
 }
    
@@ -158,7 +189,7 @@
 
 .thesecondscreen {
     position: relative;
-    top: -90px;
+    top: -269px;
     width: 1280px;
     height: 1500px;
     background-image: url("../images/kaskalomikrectangle.svg");
@@ -279,7 +310,7 @@
 
 .thethirdscreen {
     position: relative;
-    top: -385px;
+    top: -628px;
     width: 1280px;
     height: 1364px;
     background-image: url("../images/relsaaaaa.svg");
@@ -389,7 +420,7 @@
 
 .flagscreen {
     position: relative;
-    top: -585px;
+    top: -791px;
     right: 50px;
     left: 50px;
     width: 1180px; 
@@ -755,7 +786,7 @@
     display: block;
     width: 1280px;
     height: 898px;
-    top: -484px;
+    top: -747px;
 }
 
 .puli {
@@ -881,7 +912,7 @@ letter-spacing: -24px;
     position: relative;
     width: 1280px ;
     height: 451px ;
-    top: -625px;
+    top: -914px;
     background-image: url(../images/koluchayaprovolka.svg);
     background-repeat: no-repeat;
 }
@@ -906,7 +937,7 @@ letter-spacing: -24px;
     display: block;
     width: 1280px;
     height: 843px;
-    top: -617px;
+    top: -955px;
 }
 
 .themainsquere{
@@ -970,7 +1001,7 @@ letter-spacing: -24px;
     font-size: 145px;
     font-style: normal;
     font-weight: 700;
-    top: 20px;
+    top: 27px;
     left: 18px;
 }
 
@@ -1098,7 +1129,7 @@ letter-spacing: -24px;
     height: 1061px;
     background-image: url(../images/podvallll.svg);
     Background-repeat: no-repeat;
-    top: -640px;
+    top: -985px;
 }
 
 
