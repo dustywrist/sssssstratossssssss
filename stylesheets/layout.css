@@ -61,7 +61,7 @@
    
 
    .mainlomik {
-        font-family: 'Stratos LC Web';
+        font-family: 'StratosLCWeb';
         color: rgb(255, 255, 255);
         font-size: 21px;
        
@@ -107,7 +107,7 @@
    }
 
    .bokovushkitekst {
-    font-family: 'Stratos SemiLight', sans-serif;
+    font-family: 'StratosSemiLight', sans-serif;
     font-style: italic;
     color: rgb(255, 255, 255);
     font-size: 50px;
@@ -171,7 +171,7 @@
 }
 
 .nachertania {
-    font-family: 'Stratos LC Web';
+    font-family: 'StratosLCWeb';
     color: #000;
     transform: rotate(-30deg);
     font-size: 49px;
@@ -205,7 +205,7 @@
     position: relative;
     justify-content: right;
     color: #ffffff;
-    font-family: 'Stratos LC Web';
+    font-family: 'StratosLCWeb';
     font-size: 133px;
     font-style: normal;
     font-weight: 700;
@@ -216,7 +216,7 @@
 
 .basic {
     color: #000000;
-    font-family: 'Stratos LC Web';
+    font-family: 'StratosLCWeb';
     font-size: 30px;
     font-weight: bold;
     font-style: normal;
@@ -289,7 +289,7 @@
 .semilit {
 
     color: #000000;
-    font-family: 'Stratos SemiLight';
+    font-family: 'StratosSemiLight';
     font-size: 12px;
     font-style: italic;
     font-weight: 350;
@@ -299,7 +299,7 @@
 
 .semil {
     color: #000000;
-    font-family: 'Stratos SemiLight';
+    font-family: 'StratosSemiLight';
     font-size: 9px;
     font-style: normal;
     font-weight: 350;
@@ -319,7 +319,7 @@
 
 .ocobenosti {
     color: #ffffff;
-    font-family: 'Stratos LC Web';
+    font-family: 'StratosLCWeb';
     font-size: 30px;
     font-style: normal;
     font-weight: 300;
@@ -400,7 +400,7 @@
     width: 1280px;
     height: 160px;
     color: #ffffff;
-    font-family: 'Stratos LC Web';
+    font-family: 'StratosLCWeb';
     font-size: 30px;
     font-style: normal;
     font-weight: normal;
@@ -462,7 +462,7 @@
 }
 
 .znaki2 {
-    font-family: 'Stratos SemiLight';
+    font-family: 'StratosSemiLight';
     font-style: normal;
     font-weight: 300;
     margin-top: -363px;
@@ -524,7 +524,7 @@
 }
 
 .znaki10 { 
-    font-family: 'Stratos SemiLight';
+    font-family: 'StratosSemiLight';
     font-style: normal;
     font-weight: 300;
     margin-top: 83px;
@@ -586,7 +586,7 @@
     position: relative;
     top: 80px;
     left: 438px;
-    font-family: 'Stratos SemiLight';
+    font-family: 'StratosSemiLight';
     font-size: 79px;
     font-style: italic;
     font-weight: 300;
@@ -597,7 +597,7 @@
     position: relative;
     top: 27px;
     left: 406px;
-    font-family: 'Stratos SemiLight';
+    font-family: 'StratosSemiLight';
     font-size: 102px;
     font-style: normal;
     font-weight: 300;
@@ -696,7 +696,7 @@
     position: relative;
     top: 90px;
     left:  117px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 202px;
     font-style: normal;
     font-weight: 700;
@@ -708,7 +708,7 @@
     position: relative;
     top: -129px;
     left: 291px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 172px;
     font-style: normal;
     font-weight: 400;
@@ -719,7 +719,7 @@
     position: relative;
     top: -288px;
     left: 413px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 172px;
     font-style: normal;
     font-weight: 700;
@@ -730,7 +730,7 @@
     position: relative;
     top: -411px;
     left: 507px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 172px;
     font-style: normal;
     font-weight: 300;
@@ -741,7 +741,7 @@
     position: relative;
     top: -731px;
     left: 629px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 204px;
     font-style: normal;
     font-weight: 700;
@@ -752,7 +752,7 @@
     position: relative;
     top: -901px;
     left: 739px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 172px;
     font-style: normal;
     font-weight: 400;
@@ -763,7 +763,7 @@
     position: relative;
     top: -1151px;
     left: 842px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 205px;
     font-style: normal;
     font-weight: 300;
@@ -774,7 +774,7 @@
     position: relative;
     top: -1245px;
     left: 882px;
-    font-family: 'Stratos LC Web' ;
+    font-family: 'StratosLCWeb' ;
     font-size: 205px;
     font-style: normal;
     font-weight: 700;
@@ -922,7 +922,7 @@ letter-spacing: -24px;
     width: 1030px;
     height: 39px;
     color: #ffffff;
-    font-family: 'Stratos LC Web';
+    font-family: 'StratosLCWeb';
     font-size: 30px;
     font-style: normal;
     font-weight: normal;
@@ -986,7 +986,7 @@ letter-spacing: -24px;
     gap: 317px;
     font-size: 29px;
     color: #ffffff;
-    font-family: "Stratos LC Web";
+    font-family: "StratosLCWeb";
     font-style: normal;
     font-weight: 400;
     justify-content: center;
@@ -997,7 +997,7 @@ letter-spacing: -24px;
 .voenhronika {
     position: relative;
     color: #FFF;
-    font-family:'Stratos LC Web';
+    font-family:'StratosLCWeb';
     font-size: 145px;
     font-style: normal;
     font-weight: 700;
@@ -1020,7 +1020,7 @@ letter-spacing: -24px;
     top: 21px;
     left: 15px;
     color: #FFF;
-    font-family: "Stratos LC Web";
+    font-family: "StratosLCWeb";
     font-size: 38px;
     font-style: normal;
     font-weight: 400;
@@ -1030,7 +1030,7 @@ letter-spacing: -24px;
 
 .basictextoper {
     color: #FFF;
-    font-family: "Stratos LC Web";
+    font-family: "StratosLCWeb";
     font-size: 21px;
     font-style: normal;
     font-weight: 400;
@@ -1046,7 +1046,7 @@ letter-spacing: -24px;
     top:-247px;
     left: 15px;
     color: #FFF;
-    font-family: "Stratos LC Web";
+    font-family: "StratosLCWeb";
     font-size: 38px;
     font-style: normal;
     font-weight: 400;
@@ -1055,7 +1055,7 @@ letter-spacing: -24px;
 
 .basictextgrom {
     color: #FFF;
-    font-family: "Stratos LC Web";
+    font-family: "StratosLCWeb";
     font-size: 21px;
     font-style: normal;
     font-weight: 400;
@@ -1163,7 +1163,7 @@ letter-spacing: -24px;
 
 .imena {
     color: #ffffff;
-    font-family: "Stratos LC Web";
+    font-family: "StratosLCWeb";
     font-size: 26px;
     font-style: normal;
     font-weight: 700;
@@ -1186,7 +1186,7 @@ letter-spacing: -24px;
 
 .oboznachenia {
     color: #ffffff;
-    font-family: 'Stratos LC Web';
+    font-family: 'StratosLCWeb';
     font-size: 11px;
     font-style: normal;
     font-weight: 300;
