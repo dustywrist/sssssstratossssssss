@@ -41,7 +41,7 @@
    }
 
    .zagolovok3 {
-    margin: -1000px 450px 392px 695px;
+    margin: -960px 450px 392px 703px;
    }
 
    .zagolovok4 {
@@ -104,30 +104,38 @@
    }
 
    .kvadratik {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     font-family: 'Stratos', sans-serif ;
     font-weight: 900;
     font-style: normal;
     font-size: 64px;
     color: #000000;
     letter-spacing: 18px;
-    margin: -1200px 5000px 750px 750px;
-    
-   
+    margin: -1129px 5000px 750px 735px;
+    gap: 48px;
    }
+
+
 .kvadratiki {
-    display: flex;
+  
     width: 119px;
     height: 145px;
-    justify-content: center;
-    gap: 100px;
+    top: -75px;
+    left: 20px;
     position: relative;
+    
+   
 }
 
 .kvadratikk {
+    position: relative;
+    top: -1554px;
+    left: 759px;
     width: 82px;
-    height: 90px;
+    height: 138px;
     background-color: #000000;
-    margin: -980px 5000px 750px 760px;
    
 }
 
@@ -139,7 +147,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: 106%;
-    margin:-0px 450px 0px 200px
+    margin:-263px 450px 0px 200px
   
 }
    
@@ -366,7 +374,7 @@
     font-style: normal;
     font-weight: normal;
     transform: rotate(27.81deg);
-    margin: -508px 386px 1px 12px;
+    margin: -494px 386px 1px 34px;
 
 }
 
@@ -921,7 +929,7 @@ letter-spacing: -24px;
 .block2 {
     position: relative;
     width: 590px ;
-    height: 308px;
+    height: 299px;
     border: 3px solid white;
     top: 38px;
     left: -2px
@@ -931,9 +939,9 @@ letter-spacing: -24px;
 .block3 {
     position: relative;
     width: 590px ;
-    height: 308px;
+    height: 299px;
     border: 3px solid white;
-    top: -270px;
+    top: -261px;
     left: 585px;
     background-image: url(../images/gazettaphoto.svg);
     background-repeat: no-repeat;
@@ -978,7 +986,7 @@ letter-spacing: -24px;
 
 .zagolovokoper {
     position: relative;
-    top: 15px;
+    top: 21px;
     left: 15px;
     color: #FFF;
     font-family: "Stratos LC Web";
@@ -997,14 +1005,14 @@ letter-spacing: -24px;
     font-weight: 400;
     line-height: 127%; 
     position: relative;
-    top: 44px;
+    top: 33px;
     left: 15px;
 }
 
 
 .zagolovokoper1 {
     position: relative;
-    top:-255px;
+    top:-247px;
     left: 15px;
     color: #FFF;
     font-family: "Stratos LC Web";
@@ -1022,7 +1030,7 @@ letter-spacing: -24px;
     font-weight: 400;
     line-height: 127%; 
     position: relative;
-    top: -241px;
+    top: -240px;
     left: 15px;
 
 }
@@ -1040,12 +1048,12 @@ letter-spacing: -24px;
 
 .squer2 {
     position: relative;
-    width: 333px;
+    width: 328px;
     height: 22px;
     border: 1px solid #FFF;
     background: #FFF;
-    top:-263px;
-    left: 824px;
+    top:-262px;
+    left: 828px;
 
 }
 
@@ -1057,7 +1065,7 @@ letter-spacing: -24px;
     border: 1px solid #FFF;
     background: #FFF;
     width: 232px;
-    top:-112px;
+    top:-123px;
     left: 218px;
 
 }
@@ -1067,9 +1075,9 @@ letter-spacing: -24px;
     height: 22px;
     border: 1px solid #FFF;
     background: #FFF;
-    width: 325px;
-    top: -80px;
-    left: 227px;
+    width: 219px;
+    top: -91px;
+    left: 335px;
 
 }
 
@@ -1079,7 +1087,7 @@ letter-spacing: -24px;
     border: 1px solid #FFF;
     background: #FFF;
     width: 319px;
-    top: -22px;
+    top: -32px;
     left: 15px;
 
 }
